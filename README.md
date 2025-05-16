@@ -48,8 +48,3 @@ Start the development server
 bash
 npm start
 The app will open in your browser at http://localhost:5173/
-
-📦 Scripts
-Command	Description
-npm start	Runs the app in development mode
-npm run build	Builds the app for production
