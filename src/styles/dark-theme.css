@@ -1,0 +1,15 @@
+:root {
+  --card-bg: #2d3748;
+  --detail-bg: #4a5568;
+  --text-primary: #f7fafc;
+  --text-secondary: #e2e8f0;
+  --input-border: #4a5568;
+  --input-bg: #4a5568;
+  --button-bg: #4299e1;
+  --button-text: #f7fafc;
+  --button-hover: #3182ce;
+  --spinner-border: #4a5568;
+  --spinner-top: #4299e1;
+  --error-text: #fc8181;
+  --error-bg: #742a2a;
+}
